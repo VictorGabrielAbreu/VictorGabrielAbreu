@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on E-makers | Data Analyst
-- 🌱 I’m currently learning SQL and PHP
-- 💬 Ask me about Data analysis and SQL server
+- 🔭 Atualmente estou trabalhando E-makers | Analista de Dados
+- 🌱 Atualmente estou aprendendo SQL e PHP
+- 💬 Pergunte-me sobre análise de dados e servidor SQL
