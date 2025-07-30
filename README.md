@@ -23,8 +23,8 @@
 ### Minhas statísticas
 
 <div>
-  <a href="https://github.com/VictorGabrielAbreu">
-    <img  height="150em" width = "1000"src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabrielAbreu&layout=compact&langs_count=7&theme=dark"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorGabrielAbreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/nesantana">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesantana&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nesantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
