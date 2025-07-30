@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo SQL e PHP
 - 💬 Pergunte-me sobre análise de dados e servidor SQL
 
-## Melhores tecnologias
+### Melhores tecnologias
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width = "60"/>        
@@ -13,12 +13,18 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width = "60"/>
 </div>
 
-## Tecnlogias que gostaria de trabalhar
+### Tecnlogias que gostaria de trabalhar
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width = "60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "60"/>
 </div>
 
+### Minhas statísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<div>
+  <a href="https://github.com/VictorGabrielAbreu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabrielAbreu&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorGabrielAbreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
