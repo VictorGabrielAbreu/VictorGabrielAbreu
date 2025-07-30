@@ -1,4 +1,4 @@
-## Olá bem vindo ao meu portfólio 👋
+### Olá bem vindo ao meu portfólio 👋
 
 - 🔭 Atualmente estou trabalhando E-makers | Analista de Dados
 - 🌱 Atualmente estou aprendendo SQL e PHP
