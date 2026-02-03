@@ -1,7 +1,7 @@
 ### Olá bem vindo ao meu portfólio 👋
 
-- 🔭 Atualmente estou trabalhando E-makers | Analista de Dados
-- 🌱 Atualmente estou aprendendo SQL e PHP
+- 🔭 Atualmente estou trabalhando E-makers | Analista de Dados N1
+- 🌱 Atualmente estou aprendendo FRONT-END
 - 💬 Pergunte-me sobre análise de dados e servidor SQL
 
 ### Melhores tecnologias
