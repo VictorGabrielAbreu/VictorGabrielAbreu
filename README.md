@@ -34,11 +34,11 @@
 ### Contatos
 
 <div>
-  <a href="https://linkedin.com/in/victor-gabriel-abreu-dos-santos-564a44233" target_blank>
+  <a href="https://linkedin.com/in/victor-gabriel-abreu-dos-santos-564a44233">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-   <a href="https://wa.me/5519981788960" target_blank>
+   <a href="https://wa.me/5519981788960">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
