@@ -39,6 +39,6 @@
   </a>
 
    <a href="https://w.app/gbgmx0">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://wa.me/5519981788960)" />
   </a>
 </div>
